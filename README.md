@@ -1,6 +1,6 @@
 ### Opaa!! Eu sou o João Pedro! 😁👋
 
-- 🔭 Hoje trabahando com Full-Stack
+- 🔭 Hoje trabahando na ALESC-Florianópolis
 - 🌱 Estudando o framework Django
 - 📫 Entre em contato comigo em: joaopedro.lopes05@gmail.com
 
