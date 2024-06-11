@@ -1,7 +1,7 @@
 ### Opaa!! Eu sou o João Pedro! 😁👋
 
 - 🔭 Hoje trabahando na ALESC-Florianópolis
-- 🌱 Estudando o framework Django
+- 🌱 Estudando sobre Software Engineering
 - 📫 Entre em contato comigo em: joaopedro.lopes05@gmail.com
 
 <div style="display: inline_block"><br>
