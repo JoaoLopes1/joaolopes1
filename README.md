@@ -1,7 +1,6 @@
 ### Opaa!! Eu sou o João Pedro! 😁👋
 
-- 🔭 Hoje trabahando na ALESC-Florianópolis
-- 🌱 Estudando sobre Software Engineering
+- 🌱 Estudando sobre Data Science
 - 📫 Entre em contato comigo em: joaopedro.lopes05@gmail.com
 
 <div style="display: inline_block"><br>
