@@ -4,6 +4,7 @@
 - 📫 Entre em contato comigo em: joaopedro.lopes05@gmail.com
 
 <div style="display: inline_block"><br>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="54f814f3-982b-453f-a55b-8f8c9415dced" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
