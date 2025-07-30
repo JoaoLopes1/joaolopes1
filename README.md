@@ -1,9 +1,10 @@
-### Opaa!! Eu sou o João Pedro! 😁👋
+### Eu sou o João Pedro!!! 😁👋
 
--  Data Science
--  Business Inteligence
+-  🎓 Sistemas de Informação
+-  🗃 Data Science
+-  📋 Business Inteligence
 <div style="display: inline_block">
-  <img align="center" alt="BADGE"  href="https://www.credly.com/badges/097b2de6-4767-4ca2-b693-a3b4ac521413/public_url" src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png">
+  <a href="https://www.credly.com/badges/097b2de6-4767-4ca2-b693-a3b4ac521413/public_url" target="_blank"> <img align="center" alt="BADGE" src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"></a>
 </div>
   
 <div style="display: inline_block"><br>
